@@ -92,7 +92,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 
@@ -138,8 +137,7 @@ img {
     <p><a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a><p>
   
   
-     </div>
-</div>
+    
 
 
 <div class="footer">
@@ -172,7 +170,6 @@ body {
   background-color: #555;
 }
 </style>
-</head>
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
@@ -200,5 +197,4 @@ function topFunction() {
 }
 </script>
 </body>
-</html>
 
