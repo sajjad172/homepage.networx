@@ -105,6 +105,7 @@ img {
     <p> California teens can apply for a permit as early as 15½ years old—but first they must enroll in a 30-hour California drivers education course that has been approved by the Department of Motor Vehicles (DMV). Drivers education teaches important traffic rules and prepares you for the written permit test. At the end of the course, you'll receive a Certificate of Completion that proves you finished your drivers education. To get your permit you must be at least 15 years and 6 months old Be enrolled in an approved drivers ed course when these requirements are met, you can apply for your California learners permit at a DMV field office. Once you get your permit you must wait at least 6 months to apply for a license. We reccommned to make a appointment to save you time. Below is a free drivers ed course! Also, the DMW website is below. Overall, driver's ed is a excellent course for you to get into the driving world! 
 </p>
 <p><a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a></p>
+<br>
   <p><a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a></p>
    
   <div class="main">
@@ -124,17 +125,17 @@ img {
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
   <br>
-  <a href="https://www.changetochill.org/wp-content/uploads/2014/07/16178_Teen_Anxiety.pdf"><button>Teen Anxiety</button> </a>
+  <p><a href="https://www.changetochill.org/wp-content/uploads/2014/07/16178_Teen_Anxiety.pdf"><button>Teen Anxiety</button> </a><p>
   <br>
   <br>
-  <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Teen Bipolar Disorder</button> </a>
+  <p><a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Teen Bipolar Disorder</button> </a><p>
   <br>
   <br> 
-  <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Stress</button> </a>
+  <p><a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Stress</button> </a><p>
   <br>
   <br>
   For more resources and infroamtion click the link below;<br>
-    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a>
+    <p><a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a><p>
   
   
      </div>
