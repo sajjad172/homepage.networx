@@ -81,7 +81,7 @@ body {
 
 
 <div class="navbar">
-  <a href="history.back()">Home</a>
+  <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
   <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
