@@ -76,11 +76,12 @@ body {
 
 }
 </style>
+</head>
 <body>
 
 
 <div class="navbar">
-  <a href="https://sajjad172.github.io/homepage.networx/">Home</a>
+  <a href="history.back()">Home</a>
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
   <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
@@ -92,6 +93,7 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
 <body>
 
 
@@ -103,10 +105,12 @@ img {
    <img src=https://www.superiorwildcats.org/vimages/shared/vnews/stories/5e5878846593a/1_Drivers%20Ed.png alt="driver's ed" height="180">
     <p> California teens can apply for a permit as early as 15½ years old—but first they must enroll in a 30-hour California drivers education course that has been approved by the Department of Motor Vehicles (DMV). Drivers education teaches important traffic rules and prepares you for the written permit test. At the end of the course, you'll receive a Certificate of Completion that proves you finished your drivers education. To get your permit you must be at least 15 years and 6 months old Be enrolled in an approved drivers ed course when these requirements are met, you can apply for your California learners permit at a DMV field office. Once you get your permit you must wait at least 6 months to apply for a license. We reccommned to make a appointment to save you time. Below is a free drivers ed course! Also, the DMW website is below. Overall, driver's ed is a excellent course for you to get into the driving world! 
 </p>
-<p><a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a></p>
-<br>
-  <p><a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a></p>
+  <a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a>
+  <br>
+  <br>
+  <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
    
+  </div>
   <div class="main">
     <h2>DMV Requirements for License Application</h2>
  
@@ -124,20 +128,21 @@ img {
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
   <br>
-  <p><a href="https://www.changetochill.org/wp-content/uploads/2014/07/16178_Teen_Anxiety.pdf"><button>Teen Anxiety</button> </a><p>
+  <a href="https://www.changetochill.org/wp-content/uploads/2014/07/16178_Teen_Anxiety.pdf"><button>Teen Anxiety</button> </a>
   <br>
   <br>
-  <p><a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Teen Bipolar Disorder</button> </a><p>
+  <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Teen Bipolar Disorder</button> </a>
   <br>
   <br> 
-  <p><a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Stress</button> </a><p>
+  <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Stress</button> </a>
   <br>
   <br>
   For more resources and infroamtion click the link below;<br>
-    <p><a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a><p>
+    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a>
   
   
-    
+     </div>
+</div>
 
 
 <div class="footer">
@@ -170,6 +175,7 @@ body {
   background-color: #555;
 }
 </style>
+</head>
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
@@ -197,4 +203,5 @@ function topFunction() {
 }
 </script>
 </body>
+</html>
 
