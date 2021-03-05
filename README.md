@@ -104,9 +104,8 @@ img {
    <img src=https://www.superiorwildcats.org/vimages/shared/vnews/stories/5e5878846593a/1_Drivers%20Ed.png alt="driver's ed" height="180">
     <p> California teens can apply for a permit as early as 15½ years old—but first they must enroll in a 30-hour California drivers education course that has been approved by the Department of Motor Vehicles (DMV). Drivers education teaches important traffic rules and prepares you for the written permit test. At the end of the course, you'll receive a Certificate of Completion that proves you finished your drivers education. To get your permit you must be at least 15 years and 6 months old Be enrolled in an approved drivers ed course when these requirements are met, you can apply for your California learners permit at a DMV field office. Once you get your permit you must wait at least 6 months to apply for a license. We reccommned to make a appointment to save you time. Below is a free drivers ed course! Also, the DMW website is below. Overall, driver's ed is a excellent course for you to get into the driving world! 
 </p>
-  <a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a>
-  <br>
-  <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
+<p><a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a></p>
+  <p><a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a></p>
    
   <div class="main">
     <h2>DMV Requirements for License Application</h2>
