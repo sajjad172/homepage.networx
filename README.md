@@ -56,7 +56,7 @@ body {
 .side {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: pink;
+  background-color: none;
   padding: 20px;
 }
 
@@ -65,7 +65,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: pink;
+  background-color: white;
   padding: 20px;
 }
 
