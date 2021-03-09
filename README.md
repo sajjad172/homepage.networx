@@ -56,7 +56,7 @@ body {
 .side {
   -ms-flex: 30%; 
   flex: 30%;
-  background-color: none;
+  background-color: pink;
   padding: 20px;
 }
 
@@ -97,7 +97,7 @@ img {
 <body>
 
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%">
 
 
