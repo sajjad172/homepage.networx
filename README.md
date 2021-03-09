@@ -77,7 +77,6 @@ body {
 }
 
 </style>
-</head>
 <body>
 
 
@@ -147,7 +146,7 @@ img {
   
   
      </div>
-</div>
+
 
 
 <div class="footer">
@@ -180,7 +179,6 @@ body {
   background-color: #555;
 }
 </style>
-</head>
 <body>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
@@ -208,7 +206,6 @@ function topFunction() {
 }
 </script>
 </body>
-</html>
 
 
 
