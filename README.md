@@ -1,5 +1,12 @@
-<html lang="en">
+<html>
 <head>
+<style>
+body {
+  background-color: pink;
+}
+</style>
+</head>
+<body>
 <title>Networx</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -65,7 +72,7 @@ body {
 .main {   
   -ms-flex: 70%; 
   flex: 70%;
-  background-color: white;
+  background-color: none;
   padding: 20px;
 }
 
@@ -85,6 +92,7 @@ body {
   <a href="https://sajjad172.github.io/contact-us-page/">Contact Us</a>
   <a href="https://sajjad172.github.io/about.us.page/">About Us</a>
   <a href="https://sajjad172.github.io/artworx.page/" class="right" class="center">Artworx Page</a>
+  
   </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -105,7 +113,7 @@ img {
  <img src="https://www.superiorwildcats.org/vimages/shared/vnews/stories/5e5878846593a/1_Drivers%20Ed.png" alt="driver's ed" height="180">
  <br>
  <p><em> California teens can apply for a permit as early as 15½ years old—but first they must enroll in a 30-hour California drivers education course that has been approved by the Department of Motor Vehicles (DMV). Drivers education teaches important traffic rules and prepares you for the written permit test. At the end of the course, you'll receive a Certificate of Completion that proves you finished your drivers education. To get your permit you must be at least 15 years and 6 months old Be enrolled in an approved drivers ed course when these requirements are met, you can apply for your California learners permit at a DMV field office. Once you get your permit you must wait at least 6 months to apply for a license. We reccommned to make a appointment to save you time. Below is a free drivers ed course! Also, the DMW website is below. Overall, driver's ed is a excellent course for you to get into the driving world!</em></p>
-    
+   
   <div class="main">
   <a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a>
   <br>
@@ -204,7 +212,6 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
-</body>
 
 
 
