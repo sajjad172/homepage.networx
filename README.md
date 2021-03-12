@@ -129,13 +129,16 @@ p {
   <br>
   <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
    <p><strong>Belown is a video that explains how to get your permit in the state of California;</strong><br>
-      <iframe width="320" height="220" src="https://www.youtube.com/watch?v=QvF6qqDlbB4">
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/QvF6qqDlbB4">
 </iframe>
+<p><strong> Below is an image of the minimum driving age by stage for your learner's permit; </strong></p>
+<br>
+<img src="https://www.rhinocarhire.com/CorporateSite/media/Drive-Smart/us-state-min-driving-age-learner.jpg" alt="driving age requirment" style="width:50%">
 <div style="text-align:center">
    <h2 style="color:Yellow;">DMV Requirements for License Application</h2>
  </div>
 
-    <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intro.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%"><br></div>
+    <img src="https://cdn.aarp.net/content/dam/aarp/auto/2016/06/1140-distracted-driving-tips-intro.imgcache.rev.web.1140.655.jpg" alt="driving" height="225" min-width="100%"><br>
     <p> After you had your permit for 6 months you now can apply for a license! If you apply for a license before you turn 18 you must; Practice driving for at least six months, complete six hours of drivers training with a licensed instructor, complete 50 hours of driving practice, including 10 hours at night. These hours must be supervised and certified by an adult who is at least 25 years old and has a valid drivers license. Once you are ready to apply for a license you must bring a completed Form DL 44 available at the DMV, signed by your parent or guardian, proof of your date of birth and legal residence, pay application fee, proof of Social security number, proof of California residency, proof of completion of a drivers education course, and provide a thumbprint. After that, You'll also be required to pass a vision exam and written traffic and sign knowledge test. The test will gauge your knowledge of California road signs, driving laws, and miscellaneous rules included in the California Driver Handbook. The test has 46 questions, and you need to answer at least 38 correctly. You will have only 3 attempts to pass the test within a year if not you will need to reapply for your license. Below down is the DMV website where you can make appoinments and learn. There you go all the things you need for your license!</p>
     
         
@@ -143,11 +146,10 @@ p {
         <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
         
     <p><strong>Belown is a video that explains how to get your Driver's License in the state of California;</strong><br>
-      <iframe width="320" height="220" src="https://www.youtube.com/watch?v=s7VdBkT0NLw">
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/s7VdBkT0NLw">
 </iframe>
 <br>
-<p><strong> Below is an image of the minimum driving age by stage for your learner's permit.</p></strong>
-<img src="https://www.rhinocarhire.com/CorporateSite/media/Drive-Smart/us-state-min-driving-age-learner.jpg" alt=driving "age requirment" style="width:50%">
+
 
     
     <br>
@@ -203,11 +205,11 @@ p {
 <br>
     <p><strong> The link below teaches how to write a Program: Coding, Testing & Debugging!</strong> <br><br>
     <a href="https://study.com/academy/lesson/how-to-write-a-program-coding-testing-debugging.html"><button>Learn Code</button> </a></p>
-      <p><strong>This video teaches the basics of programming.</strong><br>
-      <iframe width="320" height="220" src="https://www.youtube.com/watch?v=bJzb-RuUcMU">
+      <p><strong>This video teaches the basics of programming;</strong><br>
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/bJzb-RuUcMU">
 </iframe>
 <p><strong>If you want a more detailed and a 2 hour long full course about an introduction to Programming and Computer Science watch the video below!</strong><br>
-      <iframe width="320" height="220" src="https://www.youtube.com/watch?v=zOjov-2OZ0E">
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/zOjov-2OZ0E">
 </iframe>
 <p><strong> If you want to start coding for free click on the link below! </strong> <br><br>
     <a href="https://www.freecodecamp.org/"><button>Start coding for free!</button> </a></p>
@@ -240,7 +242,31 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
 </button> </a></p>
 <h5><strong> Bottom Line</strong></h5>
 <p>You can’t avoid paying taxes. But understanding how taxes work can empower you to make smart choices about managing your finances and getting the highest net income. A good tax plan can set up your personal finances strategically to take advantage of different tax breaks and tax credits. And this could help reduce how much you owe in taxes.</p>
-
+<p><strong>Below is a video to teach you about taxes and the history of it! </strong><br>
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/7Qtr_vA3Prw">
+</iframe>
+ <div style="text-align:center">
+    <h2 style="color:#98FB98 ;">Art</h2>
+    <img src="https://i.redd.it/zftj0r44c3321.png" alt="art picture" height="260">
+   </div>
+     <div style="text-align:center">
+ <p><em><strong>Do you like to draw? If you would like to check our art page <a href="https://sajjad172.github.io/artworx.page/">Click here</a> If you would like to sumbit your art <a href="https://sajjad172.github.io/sumbit.art/">Click here</a> </strong></em></p></div>
+ <p> Art can be a great hobbie in your free time! You can let your creativity out and the finished piece of art would look great! A great thing about art is you can draw whatever you want and edit to make it look good</p>
+ <p><strong>Below is a video that provides tips for new people in the art world! </strong><br>
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/On0CzV9_wwM">
+</iframe>
+<br>
+<p><strong>Below is a video that teaches you how to sketch! </strong><br>
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/qqva-bcEnHA">
+</iframe>
+<br>
+<p><strong>Below is a video that teaches you the baics of drawing! </strong><br>
+      <iframe width="320" height="220" src="https://www.youtube.com/embed/ewMksAbgdBI">
+</iframe>
+ <p><strong>If you would like to use a free editing tool click below
+ <br></strong>
+    <a href="https://pixlr.com/e/"><button>Free editing tool
+</button> </a></p>
 <div class="footer">
   <h2>put social media stuff here</h2>
 </div>
