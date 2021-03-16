@@ -205,7 +205,7 @@ p {
 <h5><strong>Why should you code?</strong></h5>
 <p>We all have hopes, dreams, and plans for the future. Whether you’re looking for a new opportunity, want to optimize your current job, or are simply searching for a new hobby, coding can help you get closer to your goals. And remember, anyone can learn how to code!</p>
 <h5><strong>Make cool stuff</strong></h5>
-<p><em> Ever wanted to make an app or a website? Code does that. It can also help you automate a spreadsheet or create new tools for your community. Learning to code makes it possible to imagine the things you want to make and actually build them. You also have loads of fun!</em></p>
+<p>Ever wanted to make an app or a website? Code does that. It can also help you automate a spreadsheet or create new tools for your community. Learning to code makes it possible to imagine the things you want to make and actually build them. You also have loads of fun!</p>
 <br>
     <p><strong> The link below teaches how to write a Program: Coding, Testing & Debugging!</strong> <br><br>
     <a href="https://study.com/academy/lesson/how-to-write-a-program-coding-testing-debugging.html"><button>Learn Code</button> </a></p>
@@ -333,13 +333,4 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
-
-
-
-
-
-
-
-
-
 
