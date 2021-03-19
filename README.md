@@ -153,7 +153,7 @@ p {
   <br>
         <p><br>The link below is the official website of the DMV; <br>
   <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
-   <p><br>Below is a video that explains how to get your permit in the state of California;</strong><br>
+   <p><br>Below is a video that explains how to get your permit in the state of California;<br></strong>
  
       <iframe width="320" height="220" src="https://www.youtube.com/embed/QvF6qqDlbB4">
 </iframe>
@@ -203,7 +203,7 @@ p {
   <br>
   <br>
   <p>For more resources and information click the link below;<br>
-    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a></strong></p>
+    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button></strong> </a></p>
   
   
     
@@ -212,15 +212,15 @@ p {
    </div>
  <br><img src="https://www.academyofmine.com/wp-content/uploads/2019/05/bookateacher_online_tutoring.jpg" alt="picture of laptob that says 'tutoring' " height="200">
   <div style="text-align:center">
- <p><em><strong><br>Tutoring can offer a lot during this time when most teenagers are struggling to do work and concentrate due to mental health and other issues so we have provided resources to help below! </strong></em></p>
+ <p><em><strong><br>Tutoring can offer a lot during this time when most teenagers are struggling to do work and concentrate due to mental health and other issues so we have provided resources to help below! </em></p>
 </div>
 <p> <br>Tutoring can have lots of benefits to students such as that tutoring offers more individualized, systematic, structured learning experience. It also provides greater congruence between teacher and learner, closer role model. It improves academic performance and personal growth, and also improves attitude toward subject area. This generates stronger effects than other individualized teaching strategies. It motivates self-paced and self-directed learning, and provides intensive practice for students who need it. Overall, tutroing can help and improve self-esteem.</p>
-  <p><br><strong>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! <br>
+  <p><br>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! <br>
     <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></p>
     <p><br>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! <br>
     <a href="https://www.tutor.com"><button>Tutoring</button> </a></p>
         <p><br>Click on the link below to get online tutoring for your help! <br>
-    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </a></strong></p>
+    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </strong></a></p>
     <div style="text-align:center">
     <br><br><br><h2 style="color:Aqua ;">Coding</h2>
     <br><img src="https://i.insider.com/60144316a7c0c4001991dde6?width=600&format=jpeg&auto=webp" alt="coding picture" height="260">
