@@ -179,8 +179,6 @@ p {
       <iframe width="320" height="220" src="https://www.youtube.com/embed/s7VdBkT0NLw">
 </iframe>
 <br>
-<p>hi</p>
-
     
     <br>
     <div style="text-align:center">
