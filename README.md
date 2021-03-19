@@ -153,7 +153,7 @@ p {
   <br>
         <p><br>The link below is the official website of the DMV; <br>
   <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
-   <p><br>Below is a video that explains how to get your permit in the state of California;<br></strong>
+   <p><br>Below is a video that explains how to get your permit in the state of California;<br></strong></p>
  
       <iframe width="320" height="220" src="https://www.youtube.com/embed/QvF6qqDlbB4">
 </iframe>
@@ -175,7 +175,7 @@ p {
          <p><br><strong>The link below is the official website of the DMV;</strong><br>
         <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
         
-    <p><strong><br>Belown is a video that explains how to get your Driver's License in the state of California><br></strong>
+    <p><strong><br>Belown is a video that explains how to get your Driver's License in the state of California<br></strong>
       <iframe width="320" height="220" src="https://www.youtube.com/embed/s7VdBkT0NLw">
 </iframe>
 <br>
@@ -187,7 +187,7 @@ p {
     <br><br><br><h2 style="color:Red;">Mental Health</h2>
    
    <br> <img src="https://musculardystrophynews.com/wp-content/uploads/2018/07/shutterstock_282943754-1400x480@2x.jpg" alt="mental health picture" width="350" ><br>
-    <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.</em></h5><br></div>
+   <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.<br></em></div></h5>
       <p><br>The link below offers tips for Depression <br>
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
@@ -212,14 +212,14 @@ p {
    </div>
  <br><img src="https://www.academyofmine.com/wp-content/uploads/2019/05/bookateacher_online_tutoring.jpg" alt="picture of laptob that says 'tutoring' " height="200">
   <div style="text-align:center">
- <p><em><strong><br>Tutoring can offer a lot during this time when most teenagers are struggling to do work and concentrate due to mental health and other issues so we have provided resources to help below! </em></p>
-</div>
+ <p><em><strong><br>Tutoring can offer a lot during this time when most teenagers are struggling to do work and concentrate due to mental health and other issues so we have provided resources to help below! </strong></em> </p>
+ </div>
 <p> <br>Tutoring can have lots of benefits to students such as that tutoring offers more individualized, systematic, structured learning experience. It also provides greater congruence between teacher and learner, closer role model. It improves academic performance and personal growth, and also improves attitude toward subject area. This generates stronger effects than other individualized teaching strategies. It motivates self-paced and self-directed learning, and provides intensive practice for students who need it. Overall, tutroing can help and improve self-esteem.</p>
-  <p><br>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! <br>
-    <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></p>
-    <p><br>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! <br>
-    <a href="https://www.tutor.com"><button>Tutoring</button> </a></p>
-        <p><br>Click on the link below to get online tutoring for your help! <br>
+  <p><br><strong>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! <br>
+    <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></strong></p>
+    <p><br><strong>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! <br>
+    <a href="https://www.tutor.com"><button>Tutoring</button> </a></strong></p>
+        <p><br><strong>Click on the link below to get online tutoring for your help! <br>
     <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </a></strong></p>
     <div style="text-align:center">
     <br><br><br><h2 style="color:Aqua ;">Coding</h2>
@@ -324,7 +324,7 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
 <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
     
 
-</head>
+
     <body>
         
 
