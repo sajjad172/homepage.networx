@@ -148,12 +148,12 @@ p {
  <p>California teens can apply for a permit as early as 15½ years old—but first they must enroll in a 30-hour California drivers education course that has been approved by the Department of Motor Vehicles (DMV). Drivers education teaches important traffic rules and prepares you for the written permit test. At the end of the course, you'll receive a Certificate of Completion that proves you finished your drivers education. To get your permit you must be at least 15 years and 6 months old Be enrolled in an approved drivers ed course when these requirements are met, you can apply for your California learners permit at a DMV field office. Once you get your permit you must wait at least 6 months to apply for a license. We recommned to make a appointment to save you time. Below is a free drivers ed course! Also, the DMW website is below. Overall, driver's ed is a excellent course for you to get into the driving world!<p>
    
   <div class="main">
-        <p><br><strong>The link below is a website that gives a free Driver's Ed Course <br>
+        <p><br><strong>The link below is a website that gives a free Driver's Ed Course</strong> <br>
   <a href="https://coastlineacademy.com"><button>Free Driver's Ed Course</button></a>
   <br>
-        <p><br>The link below is the official website of the DMV; <br>
+        <p><br><strong>The link below is the official website of the DMV; </strong><br>
   <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
-   <p><br>Below is a video that explains how to get your permit in the state of California;<br></strong></p>
+   <p><br><strong>Below is a video that explains how to get your permit in the state of California;</strong></p>
  
       <iframe width="320" height="220" src="https://www.youtube.com/embed/QvF6qqDlbB4">
 </iframe>
@@ -187,23 +187,25 @@ p {
     <br><br><br><h2 style="color:Red;">Mental Health</h2>
    
    <br> <img src="https://musculardystrophynews.com/wp-content/uploads/2018/07/shutterstock_282943754-1400x480@2x.jpg" alt="mental health picture" width="350" ><br>
-   <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.<br></em></div></h5>
-      <p><br>The link below offers tips for Depression <br>
+   <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.</strong></em></h5>
+   </div>
+   <br>
+      <p><br><strong>The link below offers tips for Depression </strong><br>
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
-      <p><br>The link below offers tips for Anxiety<br>
+      <p><br><strong>The link below offers tips for Anxiety</strong><br>
   <a href="https://www.changetochill.org/wp-content/uploads/2014/07/16178_Teen_Anxiety.pdf"><button>Teen Anxiety</button> </a>
   <br>
-      <p><br>The link below offers tips for Bipolar Disorder <br>
+      <p><br><strong>The link below offers tips for Bipolar Disorder </strong><br>
 
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Teen Bipolar Disorder</button> </a>
   <br>
-    <p><br>The link below offers tips for stress <br>
+    <p><br><strong>The link below offers tips for stress</strong> <br>
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16825_Teen-Bipolar_Community-Wellness.pdf"><button>Stress</button> </a>
   <br>
   <br>
-  <p>For more resources and information click the link below;<br>
-    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a></p></strong>
+  <p><strong>For more resources and information click the link below; </strong><br>
+    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a></p>
   
   
     
@@ -215,12 +217,12 @@ p {
  <p><em><strong><br>Tutoring can offer a lot during this time when most teenagers are struggling to do work and concentrate due to mental health and other issues so we have provided resources to help below! </strong></em> </p>
  </div>
 <p> <br>Tutoring can have lots of benefits to students such as that tutoring offers more individualized, systematic, structured learning experience. It also provides greater congruence between teacher and learner, closer role model. It improves academic performance and personal growth, and also improves attitude toward subject area. This generates stronger effects than other individualized teaching strategies. It motivates self-paced and self-directed learning, and provides intensive practice for students who need it. Overall, tutroing can help and improve self-esteem.</p>
-  <p><br><strong>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! <br>
+  <p><br><strong>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! </strong><br>
     <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></strong></p>
-    <p><br><strong>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! <br>
-    <a href="https://www.tutor.com"><button>Tutoring</button> </a></strong></p>
-        <p><br><strong>Click on the link below to get online tutoring for your help! <br>
-    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </a></strong></p>
+    <p><br><strong>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! </strong><br>
+    <a href="https://www.tutor.com"><button>Tutoring</button> </a></p>
+        <p><br><strong>Click on the link below to get online tutoring for your help! </strong><br>
+    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </a></p>
     <div style="text-align:center">
     <br><br><br><h2 style="color:Aqua ;">Coding</h2>
     <br><img src="https://i.insider.com/60144316a7c0c4001991dde6?width=600&format=jpeg&auto=webp" alt="coding picture" height="260">
