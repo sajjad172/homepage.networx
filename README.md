@@ -218,7 +218,7 @@ p {
  </div>
 <p> <br>Tutoring can have lots of benefits to students such as that tutoring offers more individualized, systematic, structured learning experience. It also provides greater congruence between teacher and learner, closer role model. It improves academic performance and personal growth, and also improves attitude toward subject area. This generates stronger effects than other individualized teaching strategies. It motivates self-paced and self-directed learning, and provides intensive practice for students who need it. Overall, tutroing can help and improve self-esteem.</p>
   <p><br><strong>The link below offers free tutoring and also you can be a tutor if you would like click on the link below to learn more! </strong><br>
-    <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></strong></p>
+    <a href="https://www.teenstutorteens.com/"><button>Teens Tutor Teens</button> </a></p>
     <p><br><strong>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! </strong><br>
     <a href="https://www.tutor.com"><button>Tutoring</button> </a></p>
         <p><br><strong>Click on the link below to get online tutoring for your help! </strong><br>
@@ -252,7 +252,7 @@ p {
    <br> <img src="https://d1dh93s7n44ml6.cloudfront.net/blog/wp-content/uploads/2017/05/03095853/analyze-your-taxes.jpg" alt="taxes picture" height="260">
    </div>
      <div style="text-align:center">
- <p><em><strong><br>Do you want learn how taxes work ? It may seem complicated so we have provided infromation to help! </strong></em></p>
+ <p><em><strong><br>Do you want learn how taxes work? It may seem complicated so we have provided infromation to help! </strong></em></p>
 </div>
 <h5><strong><br>What are taxes?</strong></h5>
 <p> Taxes are money collected by the government for the purpose of funding government operations. Before the income tax, the US government mostly funded its operations with import taxes known as tariffs.
@@ -356,8 +356,8 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
             <div class="footer-center">
                 <div>
                     <i class="fa fa-map-marker"></i>
-                      <p><span>4000 Edison Ave, Sacramento, CA 95821</p>
-                </div>
+                      <p><span>4000 Edison Ave, Sacramento, CA 95821< /p>
+                
 
         
                 <div>
