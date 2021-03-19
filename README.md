@@ -175,7 +175,7 @@ p {
          <p><br><strong>The link below is the official website of the DMV;</strong><br>
         <a href="https://www.dmv.ca.gov/portal/"><button>DMV</button> </a>
         
-    <p><strong><br>Belown is a video that explains how to get your Driver's License in the state of California;</strong><br>
+    <p><strong><br>Belown is a video that explains how to get your Driver's License in the state of California><br></strong>
       <iframe width="320" height="220" src="https://www.youtube.com/embed/s7VdBkT0NLw">
 </iframe>
 <br>
@@ -187,8 +187,8 @@ p {
     <br><br><br><h2 style="color:Red;">Mental Health</h2>
    
    <br> <img src="https://musculardystrophynews.com/wp-content/uploads/2018/07/shutterstock_282943754-1400x480@2x.jpg" alt="mental health picture" width="350" ><br>
-    <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.</strong></em></h5><br></div>
-      <p><br><strong>The link below offers tips for Depression <br>
+    <h5><em><strong>One of our goals is help youth to identify what is causing them stress, anxiety, or other mental health barriers, so they can address their mental well-being and get the help they deserve.</em></h5><br></div>
+      <p><br>The link below offers tips for Depression <br>
   <a href="https://www.changetochill.org/wp-content/uploads/2015/08/16824_Teen-Depression.pdf"><button>Teen Depression</button> </a>
   <br>
       <p><br>The link below offers tips for Anxiety<br>
@@ -203,7 +203,7 @@ p {
   <br>
   <br>
   <p>For more resources and information click the link below;<br>
-    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button></strong> </a></p>
+    <a href="https://www.changetochill.org/resources/"><button>Mental Health Resources</button> </a></p></strong>
   
   
     
@@ -220,7 +220,7 @@ p {
     <p><br>This link below is also a tutroing website you can find lots of information and tutors on it click below to learn more! <br>
     <a href="https://www.tutor.com"><button>Tutoring</button> </a></p>
         <p><br>Click on the link below to get online tutoring for your help! <br>
-    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </strong></a></p>
+    <a href="https://www.k12.com/tuition-based-school-programs/online-live-tutoring.html"><button>Online Tutoring</button> </a></strong></p>
     <div style="text-align:center">
     <br><br><br><h2 style="color:Aqua ;">Coding</h2>
     <br><img src="https://i.insider.com/60144316a7c0c4001991dde6?width=600&format=jpeg&auto=webp" alt="coding picture" height="260">
