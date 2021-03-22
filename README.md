@@ -356,13 +356,12 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
             <div class="footer-center">
             <div>
                     <i class="fa fa-map-marker"></i>
-                      <span><p>4000 Edison Ave, Sacramento, CA 95821</div></p>
+                      <span><p>4000 Edison Ave, Sacramento, CA 95821</p>
         
-                <div>
+                
                     <i class="fa fa-envelope"></i>
                     <p><a href="mailto:halla7111@student.sanjuan.edu">halla7111@student.sanjuan.edu</a></p>
-                
-            </div>
+                </div>
             <div class="footer-right">
                 <p class="footer-company-about">
                     <span>About the Networx Team</span>
