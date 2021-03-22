@@ -310,6 +310,8 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
   
 </div>
 
+
+
 <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -354,7 +356,7 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
             <div class="footer-center">
                 <div>
                     <i class="fa fa-map-marker"></i>
-                      <span><p>4000 Edison Ave, Sacramento, CA 95821</div></p>
+                      <span><p>4000 Edison Ave, Sacramento, CA 95821</p></div>
                 
 
         
@@ -591,7 +593,3 @@ footer{
 
 }
 </style>
-
-
-
-
