@@ -366,6 +366,7 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
                     <p><a href="mailto:halla7111@student.sanjuan.edu">halla7111@student.sanjuan.edu</a></p>
                
             </div>
+            </div>
             <div class="footer-right">
                 <p class="footer-company-about">
                     <span>About the Networx Team</span>
