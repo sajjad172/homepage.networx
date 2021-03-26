@@ -552,8 +552,8 @@ footer{
 
 .footer-distributed .footer-icons a{
     display: inline-block;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 35px;
     cursor: pointer;
     background-color:  #33383b;
     border-radius: 2px;
