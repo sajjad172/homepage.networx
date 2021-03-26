@@ -576,7 +576,7 @@ footer{
     .footer-distributed .footer-right{
         display: block;
         width: 100%;
-        margin-bottom: 40px;
+        margin-bottom: 100px;
         text-align: center;
     }
 
