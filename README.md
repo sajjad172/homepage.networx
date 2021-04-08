@@ -308,6 +308,7 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
 
 <div style="text-align:center">
 <p><strong><em>If you need assistance please   </em> <a href="https://sajjad172.github.io/contact-us-page/">Contact Us here</a></strong></p>
+<div class="footer">
 </div>
 
 <style>
