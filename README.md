@@ -132,7 +132,7 @@ p {
 <img src="https://user-images.githubusercontent.com/78987191/109760700-0396ce80-7ba4-11eb-8d51-894ecd9bbb7a.jpg" alt="Logo" style="width:50%">
 <br>
   <div style="text-align:center"><h3> Who are we? </h3>
-  <p><em><br>sWe are a team of 4 wanting to fulfill teenagers goals and inform them about the real world and help them not only academically but also give you information about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, tutoring, how to code, etc. Below we have all the information teenagers should know to be prepared into the real world.</em></p>
+  <p><em><br>We are a team of 4 wanting to fulfill teenagers goals and inform them about the real world and help them not only academically but also give you information about  stuff outside school such as how to get started into the driving world, how to deal with mental health issues, learn how taxes work, tutoring, how to code, etc. Below we have all the information teenagers should know to be prepared into the real world.</em></p>
   
 </div>
 <div style="text-align:center">
