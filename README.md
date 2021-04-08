@@ -304,65 +304,6 @@ Your pre-tax earnings get reduced by approximately 30% before they hit your bank
 </button> </a></p><br>
 <br>
 <br>
-
-
 <div style="text-align:center">
-<p><strong><em>If you need assistance please   </em> <a href="https://sajjad172.github.io/contact-us-page/">Contact Us here</a></strong></p>
+<p><strong><em>If you need assistance please   </em> <a href="https://sajjad172.github.io/contact-us-page/">Contact Us here</a></strong></p></div>
 <div class="footer">
-</div>
-
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
-
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: red;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #555;
-}
-</style>
-<body>
-
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
-
-
-<script>
-
-var mybutton = document.getElementById("myBtn");
-
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    mybutton.style.display = "block";
-  } else {
-    mybutton.style.display = "none";
-  }
-}
-
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
-
-
-
